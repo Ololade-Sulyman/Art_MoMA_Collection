@@ -1,7 +1,7 @@
 # Art MoMA Collection
 
 ### Project Objective
-
+---
 This data analysis aims to provide insights into the Museum of Modern Art (MoMA) Collection. By analyzing various aspect of the data, we seek to identify the trends, most featured artists, and how modern is the collection.
 
 ### Data Source
