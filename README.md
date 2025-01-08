@@ -31,8 +31,29 @@ EDA involved exploring the Art (MoMA) Collection dataset to answer the key quest
 3.  How modern are the artworks at the Museum
 4.  Are there any trends in the dates of acquisition
 
+### Data Analysis
+
+~~~python
+modern_threshold = 100
+df['modern'] = df['Age']<= modern_threshold
+~~~~
 
 
+### project insight
 
+The analysis results are summarized as follows
 
+- Ludwig Mies van der Rohe is the most featured Atists, featured for 13752 periods 
+- Photograph is the most common Artwork
+- Using modern threshold of 100 years of artworks at the Museum as standard, the Art MoMA Collection has 30 years age Artwork collection and as well as 1 year age Artwork 
+  collection which show that the Artworks are modern. 
+- Month of October have highest date of acquisition while August is the least. 
+
+### Conclusion
+
+Start by determining the theme or focus of the collection. Whether it's contemporary art, abstract expressionism, or works by emerging artists, having a clear vision will guide artist acquisitions.
+
+### Reference
+
+[Stackoverflow](https://stack.com)
 
