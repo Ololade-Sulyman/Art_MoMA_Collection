@@ -49,11 +49,16 @@ The analysis results are summarized as follows
   collection which show that the Artworks are modern. 
 - Month of October have highest date of acquisition while August is the least. 
 
+
+
+
+<img width="553" alt="Screenshot Arworks" src="https://github.com/user-attachments/assets/64fcdb69-9ba2-4091-9af3-ccd21a119d7b" />
+
+
 ### Conclusion
 
 Start by determining the theme or focus of the collection. Whether it's contemporary art, abstract expressionism, or works by emerging artists, having a clear vision will guide artist acquisitions.
 
 ### Reference
 
-[Stackoverflow](https://stack.com)
-
+[Stackoverflow](https://stack,com)
