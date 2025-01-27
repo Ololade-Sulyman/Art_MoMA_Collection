@@ -31,7 +31,10 @@ EDA involved exploring the Art (MoMA) Collection dataset to answer the key quest
 3.  How modern are the artworks at the Museum
 4.  Are there any trends in the dates of acquisition
 
-### Data Analysis
+### Analysis
+
+View my notebook for detailed steps here:  [Artworks.ipynb](Artworks.ipynb)
+
 
 ~~~python
 modern_threshold = 100
